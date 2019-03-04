@@ -72,7 +72,7 @@ Views
 .. automodule:: dal_select2_queryset_sequence.views
    :members:
 
-Wigets
+Widgets
 ------
 
 .. automodule:: dal_select2_queryset_sequence.widgets
